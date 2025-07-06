@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\git-confidential-history-copy.py",
+            "args": [
+                "--repo_org", "M:\\GitRepos\\EX7\\WMS",
+                "--repo_new", "..\\wms_development"
+            ]
+        }
+    ]
+}
